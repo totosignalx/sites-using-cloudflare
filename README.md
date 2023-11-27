@@ -62,6 +62,7 @@ Data sources:
  - https://www.cloudflare.com/ips/  (going to find sites that resolve to these IPs next)
  - http://www.crimeflare.com/cfs.html (scrape of all Cloudflare customers)
  - http://www.doesitusecloudflare.com/
+ - <a title="토토사이트" href="http://totosignal.net/broadcast">토토사이트</a>
 
 I'd rather be safe than sorry so I've included any domain here that remotely touches Cloudflare.  **Don't point end-users to this list please, it has too many false positives to be useful for non-analytical purposes**.
 I'm no longer accepting PRs to remove sites from the list, our previous [process to remove sites](https://github.com/pirate/sites-using-cloudflare/issues/213) was error-prone and labor intensive.  The list is now in archive mode, consider it defunct.
